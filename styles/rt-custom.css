@@ -227,6 +227,12 @@ li.inactive {
     visibility: hidden;
 }
 
+iframe {
+    border: none;
+    width: 100%;
+    height: 462px;
+}
+
 @media print {
     .slide {
         background: white;
